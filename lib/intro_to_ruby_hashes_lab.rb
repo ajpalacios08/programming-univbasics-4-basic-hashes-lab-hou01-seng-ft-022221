@@ -22,7 +22,7 @@ def id_hash_generator(number)
     id: 5
   }
   
-  return id
+  return = id
   
   id_hash_generator = {
     id: 451
