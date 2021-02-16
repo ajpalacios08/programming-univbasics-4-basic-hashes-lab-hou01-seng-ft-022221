@@ -21,6 +21,7 @@ def id_hash_generator(number)
   id_hash_generator = {
     id: 5
   }
+  id_hash_generator
   
  
   id_hash_generator[:id] = 451
