@@ -7,7 +7,6 @@ end
 def my_hash
   my_hash = {
     dream: "travel"
-    location: "asia"
   }
 end
 
